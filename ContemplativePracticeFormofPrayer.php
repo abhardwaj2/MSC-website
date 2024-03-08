@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Contemplative Practice Overview</title>
+    <title>Contemplative Practice Form of Prayer</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
@@ -12,7 +12,7 @@
 
 <body>
 <?php include "header.php";?>
-<img src="images/background8.jpg" alt="background image" class="background" />
+<img src="images/background11.jpg" alt="background image" class="background" />
 <div class="content-container">
     <nav>
         <ul id="navigation">
@@ -24,7 +24,7 @@
         </ul>
         <hr>
     </nav>
-    <h1 class="content-main-heading">Workshops</h1>
+    <h1 class="content-main-heading">Form of Prayer</h1>
     <p>About</p>
     <p>Who we are and what we do.</p>
 
