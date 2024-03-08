@@ -8,8 +8,8 @@
             <li><a href="#">Ministry</a></li>
             <li><a href="#">Ministry Self-Care</a></li>
             <li><a href="MeditationIntroduction.php">Meditation</a></li>
-            <li><a href="#">Contemplative Practice</a></li>
-            <li><a href="#">Spiritual Direction</a></li>
+            <li><a href="ContemplativePracticeOverview.php">Contemplative Practice</a></li>
+            <li><a href="SpiritualDirectionOverview.php">Spiritual Direction</a></li>
             <li><a href="#">Learn More</a></li>
         </ul>
     </nav>
