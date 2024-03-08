@@ -1,0 +1,127 @@
+header {
+    background-color: white;
+}
+nav {
+    background-color: white;
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+
+#navigation {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#navigation a {
+    color: teal;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    font-size: 22px;
+}
+
+#navigation a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    background-color: #551a8b;
+    bottom: 0;
+    left: 50%;
+    transition: width 0.3s ease-in-out;
+}
+
+#navigation a:hover::after {
+    width: 100%;
+    left: 0;
+}
+
+/* Add responsiveness - on screens less than 500px, make the navigation links appear on top of each other, instead of next to each other */
+@media screen and (max-width: 500px) {
+    #navigation a {
+        float: none;
+        display: block;
+        width: 100%;
+        text-align: left; /* If you want the text to be left-aligned on small screens */
+    }
+}
+
+.logo {
+    max-width: 25%;
+    height: auto;
+    display: inline;
+    margin: 0;
+}
+.logo-container {
+    text-align: center;
+}
+
+.parent-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* Make it a column layout */
+}
+
+body {
+    margin: 0;
+    background-color: #d5fefd;
+    background-image: linear-gradient(315deg, #d5fefd 0%, #fffcff 74%);
+
+}
+
+.container {
+    display: flex;
+    height: calc(100vh - 50px); /* Subtract the height of the navigation bar. */
+}
+
+.left-container {
+    flex: 0 0 60%;
+    background-color: whitesmoke;
+}
+
+.right-container {
+    flex: 0 0 40%;
+    background-color: lightgray;
+}
+.background {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+html {
+    scroll-behavior: smooth;
+}
+.content-container {
+    max-width: 50rem;
+    margin: 0rem auto;
+    padding: 0px 2rem;
+    border: 1px solid;
+    box-shadow: 10px 10px 5px grey;
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+    background-color: white;
+}
+.content-container p {
+    font-size: 18px;
+}
+.content-main-heading {
+    font-size: 2rem;
+    margin: 2rem 0rem 1rem;
+    color: rgb(98, 100, 167);
+    text-align: center;
+    font-family: Abril Fatface, sans-serif;
+}
+.subheading {
+    margin-bottom: -12px;
+    color: rgb(98, 100, 167);
+    font-weight: bold;
+}
+ul {
+    list-style-type: circle;
+    font-size: 18px;
+    margin: 5px;
+}
