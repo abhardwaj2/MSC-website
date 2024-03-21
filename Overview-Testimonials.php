@@ -19,11 +19,11 @@
             <li><a href="IraProgoff.php">Ira Progoff</a></li>
             <li><a href="DialogueHouse.php">Dialogue House</a></li>
             <li><a href="IntensiveJournalMethod.php">Intensive Journal Method</a></li>
-            <li><a href="Workshops.php" style="background-color: rgb(98, 100, 167); color: white;">Workshops</a></li>
+            <li><a href="Overview-Testimonials.php" style="background-color: rgb(98, 100, 167); color: white;">Testimonials</a></li>
         </ul>
         <hr>
     </nav>
-    <h1 class="content-main-heading">Workshops</h1>
+    <h1 class="content-main-heading">Testimonials</h1>
     <p>About</p>
     <p>Who we are and what we do.</p>
 

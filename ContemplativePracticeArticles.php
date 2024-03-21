@@ -24,10 +24,18 @@
         </ul>
         <hr>
     </nav>
-    <h1 class="content-main-heading">Articles</h1>
-    <p>About</p>
-    <p>Who we are and what we do.</p>
+    <h1 class="content-main-heading">Contemplative Practice Articles</h1>
+    <p>We are providing the articles <strong>both in written and audio form,</strong> explaining how the Intensive Journal Method can help people overcome traumatic experiences.</p>
+    <p style="background: #d35400 !important; color: white;">Click on the title of the article for the written format, or you can listen to the audio underneath it.</p>
 
+    <ul>
+        <li>
+            <a href="articles/A%20spiritual%20tool%20for%20modern%20times.php">The Intensive Journal Program: A Spiritual Tool for Modern Times</a>  by Rev. Wallace (Wally) Chappell, Progoff&trade; Ministry Newsletter, Winter 2007, Volume 1, Issue 1, p. 3.
+        </li>
+        <li>
+            <a href="articles/BlueprintForASpiritualityOfExperience.php">Blueprint for a Spirituality of Experience</a>  by Rev. John McMurry, S.S., S.T.L., Ph.D., The Priest, November 1998, Volume 44, Issue 11.
+        </li>
+    </ul>
 </div>
 <br>
 

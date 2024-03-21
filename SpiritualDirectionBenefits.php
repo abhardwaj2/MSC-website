@@ -25,29 +25,29 @@
     <h1 class="content-main-heading">Benefits</h1>
     <p>The <em>Intensive Journal</em> method can serve as a valuable resource for both spiritual directors and directees. </p>
 
-    <p class="subheading">Connect With Many Facets of Your Life</p>
+    <p id="subheading">Connect With Many Facets of Your Life</p>
     <ul>
         <li>Develop a foundation on your life as you work in many areas to develop a more meaningful life.</li>
         <li>Realize connections and relationships between different areas of your life and the spiritual component.</li>
     </ul>
 
-    <p class="subheading">Enhance Your Listening Skills</p>
+    <p id="subheading">Enhance Your Listening Skills</p>
     <ul>
         <li>Increase your attentiveness to recognizing many different facets of experience.</li>
         <li>Become more receptive to hearing your inner voice and less judgmental and reactionary. </li>
     </ul>
 
-    <p class="subheading">Obtain a Direct Experience in Your Life</p>
+    <p id="subheading">Obtain a Direct Experience in Your Life</p>
     <ul>
         <li>Benefit from a deepening workshop experience away from your daily routine to connect with your inner self.</li>
     </ul>
 
-    <p class="subheading">Experience a Reflective and Contemplative Process</p>
+    <p id="subheading">Experience a Reflective and Contemplative Process</p>
     <ul>
         <li>Apply a neutral meditative process for becoming centered and deepening your inward journey. </li>
     </ul>
 
-    <p class="subheading">Learn Practical Exercises for Connecting With the Spiritual Dimension</p>
+    <p id="subheading">Learn Practical Exercises for Connecting With the Spiritual Dimension</p>
     <ul>
         <li>Deepen your experience of the Sacred in your life.</li>
         <li>Discern the deep inner purpose and direction of your life as it can be lived most authentically in the world.</li>
@@ -55,11 +55,11 @@
         <li>Clarify beliefs, values, priorities truths, purpose and religious/ spiritual experiences.</li>
     </ul>
 
-    <p class="subheading">Tap Into the Wisdom of Spiritual Figures</p>
+    <p id="subheading">Tap Into the Wisdom of Spiritual Figures</p>
     <p>Use Progoff's technique of inner dialogue to connect with the wisdom of spiritual figures to obtain clarity and understanding to resolve issues</p>
 
 
-    <p class="subheading">Enhance Spiritual Direction Sessions</p>
+    <p id="subheading">Enhance Spiritual Direction Sessions</p>
     <p>Both spiritual directors and directees can benefit from attending Intensive Journal workshops. </p>
     <ul>
         <li>Spiritual Directors: Increased Effectiveness</li>

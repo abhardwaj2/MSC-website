@@ -73,6 +73,20 @@ body {
 
 }
 
+#endorsement {
+    font-style: italic;
+    font-size: 17px;
+}
+#endorsementee {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+    margin: 5px;
+}
+#endorsementinfo {
+    font-size: 13px;
+}
+
 .container {
     display: flex;
     height: calc(100vh - 50px); /* Subtract the height of the navigation bar. */
@@ -106,22 +120,37 @@ html {
     background-color: white;
 }
 .content-container p {
-    font-size: 18px;
+    font-size: 17px;
 }
 .content-main-heading {
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin: 2rem 0rem 1rem;
     color: rgb(98, 100, 167);
     text-align: center;
     font-family: Abril Fatface, sans-serif;
 }
-.subheading {
+#subheading {
     margin-bottom: -2px;
     color: rgb(98, 100, 167);
     font-weight: bold;
+    font-size: 20px;
 }
 ul {
     list-style-type: circle;
     font-size: 18px;
     margin: 5px;
 }
+.iframe-container {
+    display: flex;
+    justify-content: center;
+}
+
+iframe {
+    height: auto;
+    margin-bottom: 50px;
+}
+
+
+
+
+

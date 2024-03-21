@@ -4,13 +4,16 @@
     </div>
     <nav>
         <ul id="navigation">
-            <li><a href="IraProgoff.php">Overview</a></li>
-            <li><a href="#">Ministry</a></li>
-            <li><a href="#">Ministry Self-Care</a></li>
-            <li><a href="MeditationIntroduction.php">Meditation</a></li>
-            <li><a href="ContemplativePracticeOverview.php">Contemplative Practice</a></li>
-            <li><a href="SpiritualDirectionOverview.php">Spiritual Direction</a></li>
-            <li><a href="#">Learn More</a></li>
+            <li><a href="IraProgoff.php" style="margin-top: 10px;">Overview</a></li>
+            <li><a href="#" style="margin-top: 10px;">Workshops</a></li>
+            <li><a href="#" style="margin-top: 10px;">Ministry</a></li>
+            <li><a href="#" style="margin-top: 10px;">Chaplaincy</a></li>
+            <li><a href="#">Ministry<br>Self-Care</a></li>
+            <li><a href="MeditationIntroduction.php" style="margin-top: 10px;">Meditation</a></li>
+            <li><a href="ContemplativePracticeOverview.php">Contemplative<br>Practice</a></li>
+            <li><a href="SpiritualDirectionOverview.php">Spiritual<br>Direction</a></li>
+            <li><a href="#">Education<br>for Ministry</a></li>
         </ul>
     </nav>
+
 </header>

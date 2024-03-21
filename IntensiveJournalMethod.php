@@ -19,7 +19,7 @@
             <li><a href="IraProgoff.php">Ira Progoff</a></li>
             <li><a href="DialogueHouse.php">Dialogue House</a></li>
             <li><a href="IntensiveJournalMethod.php" style="background-color: rgb(98, 100, 167); color: white;">Intensive Journal Method</a></li>
-            <li><a href="Workshops.php">Workshops</a></li>
+            <li><a href="Overview-Testimonials.php">Testimonials</a></li>
         </ul>
         <hr>
     </nav>
