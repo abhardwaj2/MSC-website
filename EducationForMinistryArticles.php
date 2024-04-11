@@ -30,10 +30,10 @@
 
     <ul>
         <li>
-            <a href="/articles/ExperiencingTheIntensiveJournalWorkshop.php">Experiencing the Intensive Journal™ Workshop</a> By Elsa S Bakkum
+            <a href="articles/ExperiencingTheIntensiveJournalWorkshop.php">Experiencing the Intensive Journal™ Workshop</a> By Elsa S Bakkum
         </li>
         <li>
-            <a href="/articles/EnhancingTheEfMExperienceAnInterviewWithTheRevRichardEBrewer.php">Enhancing the EfM Experience: an interview with The Rev Richard E Brewer</a> By Jon Progoff**
+            <a href="articles/EnhancingTheEfMExperienceAnInterviewWithTheRevRichardEBrewer.php">Enhancing the EfM Experience: an interview with The Rev Richard E Brewer</a> By Jon Progoff**
         </li>
     </ul>
 </div>

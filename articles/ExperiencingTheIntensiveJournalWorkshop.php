@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="ArticlesStyles.css">
     <title>A Spiritual Tool For Modern Times</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<?php include "../header.php";?>
+<?php include "ArticlesHeader.php";?>
 <img src="../images/background1.jpg" alt="background image" class="background" />
 <div class="content-container">
 

@@ -30,7 +30,7 @@
 
     <ul>
         <li>
-            <a href="articles/A%20spiritual%20tool%20for%20modern%20times.php">The Intensive Journal Program: A Spiritual Tool for Modern Times</a>  by Rev. Wallace (Wally) Chappell, Progoff&trade; Ministry Newsletter, Winter 2007, Volume 1, Issue 1, p. 3.
+            <a href="articles/ASpiritualToolForModernTimes.php">The Intensive Journal Program: A Spiritual Tool for Modern Times</a>  by Rev. Wallace (Wally) Chappell, Progoff&trade; Ministry Newsletter, Winter 2007, Volume 1, Issue 1, p. 3.
         </li>
         <li>
             <a href="articles/BlueprintForASpiritualityOfExperience.php">Blueprint for a Spirituality of Experience</a>  by Rev. John McMurry, S.S., S.T.L., Ph.D., The Priest, November 1998, Volume 44, Issue 11.
