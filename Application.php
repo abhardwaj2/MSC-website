@@ -16,7 +16,7 @@
 <div class="content-container">
     <nav>
         <ul id="navigation">
-            <li><a href="MeditationIntroduction.php">Introduction</a></li>
+            <li><a href="MeditationOverview.php">Introduction</a></li>
             <li><a href="Application.php" style="background-color: rgb(98, 100, 167); color: white;">Application</a></li>
             <li><a href="Meditation-Sample-Reading.php">Sample Reading</a></li>
         </ul>
