@@ -17,7 +17,7 @@
     <div class="left-container">
         <h1>Ministry for Self-Care</h1>
         <h2>Tool for 21st Century Ministry</h2>
-        <h2>Tool for 21st Century Ministry</h2>
+
 
     </div>
 
